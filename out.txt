@@ -1,0 +1,150 @@
+Threads = 20
+Requests = 20
+Running Lamport's fast mutual exclusion algorithm:
+0 Requesting CS
+0 Entering CS
+0 Exiting CS
+4 Requesting CS
+4 Entering CS
+4 Exiting CS
+5 Requesting CS
+5 Entering CS
+5 Exiting CS
+3 Requesting CS
+3 Entering CS
+3 Exiting CS
+7 Requesting CS
+7 Entering CS
+7 Exiting CS
+6 Requesting CS
+6 Entering CS
+6 Exiting CS
+8 Requesting CS
+8 Entering CS
+8 Exiting CS
+10 Requesting CS
+10 Entering CS
+10 Exiting CS
+11 Requesting CS
+11 Entering CS
+11 Exiting CS
+9 Requesting CS
+9 Entering CS
+9 Exiting CS
+12 Requesting CS
+12 Entering CS
+12 Exiting CS
+13 Requesting CS
+13 Entering CS
+13 Exiting CS
+18 Requesting CS
+18 Entering CS
+18 Exiting CS
+14 Requesting CS
+14 Entering CS
+14 Exiting CS
+17 Requesting CS
+17 Entering CS
+17 Exiting CS
+15 Requesting CS
+15 Entering CS
+15 Exiting CS
+16 Requesting CS
+16 Entering CS
+16 Exiting CS
+19 Requesting CS
+19 Entering CS
+19 Exiting CS
+2 Requesting CS
+2 Entering CS
+2 Exiting CS
+1 Requesting CS
+1 Entering CS
+1 Exiting CS
+Finishing Lamport's fast mutual exclusion. All requests served. requestno = 20 
+
+
+Running Lamport's bakery algorithm:
+1 Requesting CS
+1 Received Token 1
+1 Entering CS
+1 Exiting CS
+2 Requesting CS
+2 Received Token 1
+2 Entering CS
+2 Exiting CS
+3 Requesting CS
+3 Received Token 1
+3 Entering CS
+3 Exiting CS
+4 Requesting CS
+4 Received Token 1
+4 Entering CS
+4 Exiting CS
+5 Requesting CS
+5 Received Token 1
+5 Entering CS
+5 Exiting CS
+6 Requesting CS
+6 Received Token 1
+6 Entering CS
+6 Exiting CS
+7 Requesting CS
+7 Received Token 1
+7 Entering CS
+7 Exiting CS
+8 Requesting CS
+8 Received Token 1
+8 Entering CS
+8 Exiting CS
+9 Requesting CS
+9 Received Token 1
+9 Entering CS
+9 Exiting CS
+10 Requesting CS
+10 Received Token 1
+10 Entering CS
+10 Exiting CS
+11 Requesting CS
+11 Received Token 1
+11 Entering CS
+11 Exiting CS
+16 Requesting CS
+16 Received Token 1
+16 Entering CS
+16 Exiting CS
+13 Requesting CS
+13 Received Token 1
+13 Entering CS
+13 Exiting CS
+14 Requesting CS
+14 Received Token 1
+14 Entering CS
+14 Exiting CS
+15 Requesting CS
+15 Received Token 1
+15 Entering CS
+15 Exiting CS
+0 Requesting CS
+0 Received Token 1
+0 Entering CS
+0 Exiting CS
+18 Requesting CS
+18 Received Token 1
+18 Entering CS
+18 Exiting CS
+12 Requesting CS
+12 Received Token 1
+12 Entering CS
+12 Exiting CS
+17 Requesting CS
+17 Received Token 1
+17 Entering CS
+17 Exiting CS
+19 Requesting CS
+19 Received Token 1
+19 Entering CS
+19 Exiting CS
+Finishing Lamport's bakery algorithm. All requests served. requestno = 20 
+
+
